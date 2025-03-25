@@ -8,4 +8,3 @@
 				<input type="submit" value="로그인"/><br>
 </form>
 
-
