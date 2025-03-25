@@ -2,10 +2,6 @@
 
 <%request.setCharacterEncoding("UTF-8"); %>
 
-<jsp:useBean id="dto" class="academic.member.dto.MemberDTO" />
-<jsp:useBean id="dao" class="academic.member.dao.MemberDAO" />
-<jsp:setProperty property="*" name="dto" />
-
 <%
 	int logingCheck = dao.loginCheck(dto);
 
@@ -24,3 +20,5 @@
 
 
 %>
+
+<h1>03250219</h1>
