@@ -13,7 +13,7 @@
         <button type="submit">로그인</button>
     </form>
 
-    <p>아직 회원이 아니신가요?</p>
+    <p>아직 회원이 아니신가요? </p>
     <a href="../register/registerChoice.jsp">회원가입</a> <!-- 회원가입 페이지로 연결 -->
 </body>
 </html>
