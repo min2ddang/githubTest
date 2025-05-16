@@ -20,7 +20,7 @@ import spring.jpa.web.service.BoardService;
 @RequestMapping("board/*")
 public class BoardController {
 	// 테스트
-	// 부캐 테스트
+	// 부캐 테스
 	@Autowired
 	BoardService service;
 	
