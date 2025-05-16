@@ -19,7 +19,7 @@ import spring.jpa.web.service.BoardService;
 @Controller
 @RequestMapping("board/*")
 public class BoardController {
-	
+	// 테스트
 	@Autowired
 	BoardService service;
 	
